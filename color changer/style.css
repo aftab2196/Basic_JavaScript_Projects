@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+.main{
+display: flex;
+align-items: center;
+justify-content: center;
+ }
+
+.button{height: 100px;
+    width: 100px;
+    border: black 2px solid;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-right: 30px;}
+ 
+#grey{background-color: grey;}
+#blue{background-color: blue;}
+#yellow{background-color: yellow;}
+#peru{background-color: peru;}
+#black{ background-color: black;}
+#green{background-color: green;}
+ 
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    width: 50vw;
+    margin-top: 50px;
+    text-align: center;
+}
