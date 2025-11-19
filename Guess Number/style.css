@@ -1,0 +1,49 @@
+body {
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ #wrapper{
+    text-align: center;
+    width: 100vw;
+ }
+  h1{
+    background-color: black;
+    color: white;
+    font-size: xxx-large;
+  }
+  p{
+    color: white;
+    font-size: xx-large;
+  }
+  label{
+    font-size: xx-large;
+    color: white;
+  }
+  #subt{
+    font-size: x-large;
+    margin-top: 20px;
+    background-color: black;
+    height: 45px;
+    width: 190px;
+    color: white;
+    border-radius: 10px;
+    height: 45px;
+
+  }
+  #guessfield{
+    font-size: x-large;
+    border-radius: 5px;
+  }
+  #newGame{
+    cursor: pointer;
+    color: black;
+    font-weight: 700;
+    
+     
+    
+     
+  }
